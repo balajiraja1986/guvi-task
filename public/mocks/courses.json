@@ -4,7 +4,7 @@
             "courseName" : "Basics of Web",
             "courseImage" : "https://webfoundation.org/docs/2017/03/March-12-Letter.jpg",
             "isForSale" : true,
-            "actualPrice":300,
+            "actualPrice":3000,
             "disountedPrice":2550
         },
         {
